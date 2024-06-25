@@ -1,2 +1,5 @@
 # Archivos html
 *.html
+
+# Carpeta __pycache__ en todo el repositorio y sus archivos
+**/__pycache__/
